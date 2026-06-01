@@ -1,0 +1,5 @@
+Model,CV_MSE
+Simple (avg univariate),0.0584
+Multivariable OLS,0.0397
+Ridge (alpha=4.71),0.0397
+Cluster-label,0.0493

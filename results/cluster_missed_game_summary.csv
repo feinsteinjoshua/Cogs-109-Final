@@ -1,0 +1,16 @@
+CLUSTER,CLUSTER_NAME,Mean_Missed_Rate,Median_Missed_Rate,N
+12,2-Way Sharpshooter,0.455,0.442,478
+0,Bench Slasher,0.448,0.458,579
+10,Glass Cleaning Finisher,0.441,0.455,270
+2,Paint Beast,0.425,0.416,414
+11,Inside Finisher,0.413,0.378,625
+9,Post Facilitator,0.357,0.329,409
+6,Veteran Lockdown,0.341,0.301,403
+3,Stretch Glass Cleaner,0.34,0.301,391
+8,Scoring Machine,0.282,0.232,462
+7,Rim Protector,0.205,0.129,372
+5,3-Level Scorer,0.194,0.134,374
+14,Shot Creator,0.18,0.12,432
+13,3-Level Big,0.165,0.108,508
+4,2-Way Facilitator,0.163,0.108,384
+1,Playmaking Shot Creator,0.153,0.12,370
